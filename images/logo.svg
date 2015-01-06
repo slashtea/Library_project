@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<circle fill="none" stroke="#009444" stroke-miterlimit="10" stroke-dasharray="12" cx="50" cy="50" r="50">
+	<animateTransform attributeName="transform"
+		 attributeType="XML"
+		 type="rotate"
+		 from="0 50 50"
+		 to="360 50 50"
+		 dur="10s"
+		 repeatCount="indefinite"   />
+</circle>	
+<ellipse fill="#006838" stroke="#009444" stroke-miterlimit="10" stroke-dasharray="12" cx="49.5" cy="47.25" rx="40.5" ry="38.25"/>
+<path fill="#FFFFFF" stroke="#009444" stroke-miterlimit="10" stroke-dasharray="12" d="M72,60.75C72,66.963,69.985,72,67.5,72l0,0
+	c-2.485,0-4.5-5.037-4.5-11.25v-22.5C63,32.037,65.015,27,67.5,27l0,0c2.485,0,4.5,5.037,4.5,11.25V60.75z"/>
+<path fill="#FFFFFF" stroke="#009444" stroke-miterlimit="10" stroke-dasharray="12" d="M54,60.75C54,66.963,51.985,72,49.5,72l0,0
+	c-2.485,0-4.5-5.037-4.5-11.25v-22.5C45,32.037,47.015,27,49.5,27l0,0c2.485,0,4.5,5.037,4.5,11.25V60.75z"/>
+<path fill="#FFFFFF" stroke="#009444" stroke-miterlimit="10" stroke-dasharray="12" d="M36,60.75C36,66.963,33.985,72,31.5,72l0,0
+	c-2.485,0-4.5-5.037-4.5-11.25v-22.5C27,32.037,29.015,27,31.5,27l0,0c2.485,0,4.5,5.037,4.5,11.25V60.75z"/>
+</svg>

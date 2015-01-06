@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<menu>
+	<lien>
+		<titre>Accueuil</titre>
+		<chemin>accueil.php</chemin>
+	</lien>
+	
+	<lien>
+		<titre>Livres</titre>
+		<chemin>affiche_livres.php</chemin>
+	</lien>
+	
+	<lien>
+		<titre>Emprunteurs</titre>
+		<chemin>Emprunteurs.php</chemin>
+	</lien>	
+
+	<lien>
+		<titre>Prets</titre>
+		<chemin>prets.php</chemin>
+	</lien>
+
+</menu>	

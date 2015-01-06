@@ -1,0 +1,48 @@
+<form method="post" class="books_" action="modif_process.php">	
+					<table id="books_table" class="table-bordered">
+						<tr id="first_row">
+							<td>Id</td>
+							<td>Titre</td>
+							<td>Auteur</td>
+							<td>Langue</td>
+							<td>Annee</td>
+							<td>Prix</td>
+							<td>Disponibilite</td>
+							<td>Nombre</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="text"	value='<?php echo $id; ?>' name="id" id="id" />
+							</td>
+
+							<td>
+								<input type="titre"	value ='<?php echo $titre ; ?>' name="titre" id="titre" />
+							</td>
+
+							<td>
+								<input type="auteur" value ='<?php echo $auteur ; ?>' name="auteur" id="auteur" />
+							</td>
+
+							<td>
+								<input type="langue" value ='<?php echo $langue ; ?>' name="langue" id="langue" />
+							</td>
+
+							<td>
+								<input type="annee" value ='<?php echo $annee ; ?>' name="annee" id="annee" />
+							</td>
+
+							<td>
+								<input type="prix" value ='<?php echo $prix ; ?>' name="prix" id="prix" />
+							</td>
+
+							<td>
+								<input type="disponibilite"	value ='<?php echo $disponibilite ; ?>' name="disponibilite" id="disponibilite" />
+							</td>
+
+							<td>
+								<input type="nombre"  value ='<?php echo $nombre ; ?>' name="nombre" id="nombre" />
+							</td>
+						</tr>
+					</table>
+					<input type="submit" value="enregister" />	
+				</form>	

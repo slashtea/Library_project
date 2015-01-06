@@ -1,0 +1,123 @@
+/* General Styles */
+
+
+/* Navbar styles */
+ 
+ .navbar-header {
+ 	width: 100%;
+ }
+
+.navbar-header p {
+	width: 30%
+}
+
+.navbar-header a.logout_header {
+	margin-left: 180px;
+	text-decoration: none;
+}
+
+/* Login page */
+
+.form-signin {
+max-width: 330px;
+padding: 15px;
+margin: 0 auto;
+}
+
+/* Partie gauche */
+
+#div_gauche #menu_table {
+	width: 202px;
+}
+
+#div_gauche #menu_table th {
+	padding-left: 65px;
+	font-size: 21px;	
+}
+
+#div_gauche #menu_table tr {
+	height: 30px;
+}
+
+#div_gauche #menu_table tr a {
+	text-decoration: none;
+	cursor: pointer;
+	margin-left: 50px;
+
+}
+
+#div_gauche img#logo {
+	outline: 1px black solid;
+}
+
+/* Partie droite */
+
+#div_droite #books_table {
+	width: 900px;
+	margin-top: 30px;
+}
+
+/* Editing page styles */
+
+#div_droite #books_table input {
+	width: 110px;
+}
+
+.save_btn {
+	width: 100px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+ #div_droite .add {
+	width: 120px;
+	display: inline;
+	margin: 30px 20px 0 240px;
+	padding-right:	6px; 
+}
+
+#div_droite span.glyphicon.glyphicon-plus {
+	padding-right: 5px;
+	font-weight: bold;
+}
+
+#div_droite .logout {
+	width: 80px;
+	margin-top: 30px;
+}
+
+#div_droite .enregistrer {
+	width: 120px;
+	margin: 30px 0 0 350px;
+}
+
+#footer {
+	text-align: center;
+	background: #E8E8E8;
+	margin: 50px 0 0 0;
+	overflow: hidden;
+	height: 50px;
+	position: relative;
+	bottom: 0;
+	top: 46px; 
+}
+
+#footer p {
+	position: relative;
+	top: 20px;
+	display: inline;
+	padding-right: 30px; 
+}
+
+#footer img {
+	width: 32px;
+	height: 30px;
+	padding-right: 3px;
+}
+
+#footer a {
+	position: relative;
+	top: 17px;
+	display: inline;
+	text-decoration: none;
+}

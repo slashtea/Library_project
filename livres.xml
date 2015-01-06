@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<biblio>
+
+<livre><id>001</id><titre>test</titre><auteur>paulo coelho</auteur><langue>anglais</langue><annee>2005</annee><prix>122</prix><disponibilite>1</disponibilite><nombre>12</nombre></livre><livre><id>002</id><titre>test2</titre><auteur>x</auteur><langue>francais</langue><annee>2008</annee><prix>185</prix><disponibilite>1</disponibilite><nombre>4</nombre></livre></biblio>

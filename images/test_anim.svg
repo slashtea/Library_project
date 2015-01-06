@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="900px" height="100px" viewBox="0 0 900 100" enable-background="new 0 0 900 100" xml:space="preserve">
+<rect x="12.182" y="2.404" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="881.875" height="97.596"/>
+<rect x="7" y="1" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="881.875" height="99"/>
+<g>
+	<g>
+		<polyline fill="none" stroke="#2B3990" stroke-miterlimit="10" points="883.69,85.575 883.69,91.575 877.69,91.575 		"/>
+		
+			<line fill="none" stroke="#2B3990" stroke-miterlimit="10" stroke-dasharray="11.9598,11.9598" x1="865.73" y1="91.575" x2="34.524" y2="91.575"/>
+		<polyline fill="none" stroke="#2B3990" stroke-miterlimit="10" points="28.544,91.575 22.544,91.575 22.544,85.575 		"/>
+		
+			<line fill="none" stroke="#2B3990" stroke-miterlimit="10" stroke-dasharray="13.4682,13.4682" x1="22.544" y1="72.107" x2="22.544" y2="24.968"/>
+		<polyline fill="none" stroke="#2B3990" stroke-miterlimit="10" points="22.544,18.234 22.544,12.234 28.544,12.234 		"/>
+		
+			<line fill="none" stroke="#2B3990" stroke-miterlimit="10" stroke-dasharray="11.9598,11.9598" x1="40.504" y1="12.234" x2="871.711" y2="12.234"/>
+		<polyline fill="none" stroke="#2B3990" stroke-miterlimit="10" points="877.69,12.234 883.69,12.234 883.69,18.234 		"/>
+		
+			<line fill="none" stroke="#2B3990" stroke-miterlimit="10" stroke-dasharray="13.4682,13.4682" x1="883.69" y1="31.703" x2="883.69" y2="78.841"/>
+	</g>
+</g>
+<text transform="matrix(2.5451 0 0 1 30.0508 38.9087)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="17.82" letter-spacing="31.826">			</tspan><tspan x="0" y="21.384" font-family="'MyriadPro-Regular'" font-size="17.82" letter-spacing="31.826">		</tspan><tspan x="71.28" y="21.384" font-family="'MyriadPro-Regular'" font-size="17.82">           Bibliothèque ENSA</tspan>
+			<animateTransform attributeName="transform"
+			 attributeType="XML"
+			 type="translate"
+			 from="-50 30 0 0"
+			 to="800 30 0 0"
+			 dur="15s"
+			 repeatCount="indefinite"   />
+</text>
+</svg>
